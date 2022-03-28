@@ -21,3 +21,7 @@ function comprobar(){
         respuesta.innerText = "Incorrecto";
     }
 }
+
+function traduccion(){
+    respuesta.innerText = palabra.wordEn;
+}
