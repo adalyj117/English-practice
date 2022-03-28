@@ -61,10 +61,6 @@ let palabras = [
 },
 {
     wordEn: "shelves",
-    wordEs: "escritorio",
-},
-{
-    wordEn: "desk",
     wordEs: "estantería",
 },
 {
